@@ -193,7 +193,6 @@ class MainActivity : AppCompatActivity(), CustomAdapter.OnEmpleadoClickListener 
                             lat = location.latitude
                             lng = location.longitude
                             val emp = EmpleadoModelPost(empleadoData.fullName,empleadoData.avatar,lat,lng,utcDAte.toString(),empleadoData.dateOfBirth)
-
                                 empleadoViewModel.editEmpleado(id, emp)
                             Toast.makeText(this, "Empleado ${empleadoData.fullName} actualizado", Toast.LENGTH_SHORT).show()
                             refresh()
