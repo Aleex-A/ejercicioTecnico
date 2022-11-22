@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ejercicioTecnico</string>
+    <string name="circular_image">Circular Image</string>
+    <string name="trash_can">Trash Can</string>
+    <string name="dob">DOB</string>
+    <string name="guardar">Guardar</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="full_name">Full Name</string>
+    <string name="seleccionar">SELECCIONAR</string>
+    <string name="emptyDate">----/--/--</string>
+    <string name="edit">edit</string>
+    <string name="add_employed">Add Employed</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.EjercicioTecnico" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/bluew</item>
+        <item name="colorPrimaryVariant">@color/wblue</item>
+        <item name="colorOnPrimary">@color/wblue</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blueGray</item>
+        <item name="colorSecondaryVariant">@color/blueGray</item>
+        <item name="colorOnSecondary">@color/bluew</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
